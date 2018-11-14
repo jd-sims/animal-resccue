@@ -1,0 +1,37 @@
+
+body {
+  background-color: teal;
+}
+.page {
+width: 800px;
+margin: 0 auto;
+font-family: helvetica;
+font-weight: bolder;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+h1 {
+  color: white;
+  font-size: 120px;
+  margin:0;
+}
+
+h2 {
+  font-size: 60px;
+  color: white;
+  margin: 0;
+}
+
+h3 {
+  font-size: 40px;
+
+
+}
+
+.lion {
+  background-color: orange;
+}
